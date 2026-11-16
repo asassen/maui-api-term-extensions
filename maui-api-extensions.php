@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       .NET MAUI API Extensions
+ * Plugin Name:       MAUI API Extensions
  * Plugin URI:        https://yourdomain.com
  * Description:       Exposes, creates, and updates custom term meta data safely for the .NET MAUI mobile application.
  * Version:           1.0.0
