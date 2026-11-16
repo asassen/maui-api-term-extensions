@@ -1,4 +1,4 @@
-# .NET MAUI API Extensions
+# MAUI API Extensions
 
 A WordPress plugin that exposes term metadata and creates WooCommerce orders through REST API endpoints for a .NET MAUI app.
 
